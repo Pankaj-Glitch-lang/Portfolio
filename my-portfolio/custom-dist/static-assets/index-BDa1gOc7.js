@@ -69,4 +69,4 @@ Error generating stack: `+i.message+`
  *
  * @license MIT
  */const j0="6";try{window.__reactRouterVersion=j0}catch{}const N0="startTransition",Cs=Dd[N0];function T0(e){let{basename:t,children:n,future:r,window:l}=e,i=U.useRef();i.current==null&&(i.current=k0({window:l,v5Compat:!0}));let o=i.current,[u,a]=U.useState({action:o.action,location:o.location}),{v7_startTransition:s}=r||{},h=U.useCallback(d=>{s&&Cs?Cs(()=>a(d)):a(d)},[a,s]);return U.useLayoutEffect(()=>o.listen(h),[o,h]),U.createElement(O0,{basename:t,children:n,location:u.location,navigationType:u.action,navigator:o,future:r})}var Os;(function(e){e.UseScrollRestoration="useScrollRestoration",e.UseSubmit="useSubmit",e.UseSubmitFetcher="useSubmitFetcher",e.UseFetcher="useFetcher",e.useViewTransitionState="useViewTransitionState"})(Os||(Os={}));var js;(function(e){e.UseFetcher="useFetcher",e.UseFetchers="useFetchers",e.UseScrollRestoration="useScrollRestoration"})(js||(js={}));Vf(document.getElementById("root")).render(y.jsx(T0,{children:y.jsx(w0,{})}));
-//# sourceMappingURL=index-D8taKlX4.js.map
+//# sourceMappingURL=index-BDa1gOc7.js.map
