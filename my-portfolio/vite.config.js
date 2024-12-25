@@ -9,4 +9,5 @@ export default defineConfig({
     assetsDir: 'static-assets', // Customize assets folder
     sourcemap: true, // Enable source maps
   },
+  base: '/my-portfolio/',
 })
